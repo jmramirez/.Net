@@ -22,9 +22,9 @@ Admin can add, delete, or update Faculty, Students and Courses, and also they ca
 
 This app can be tested here : <a href=http://testapp31.azurewebsites.net/>Project 1</a>
 
-UserNames:                  Password:               Rol:
-admin                       Admin@123456            admin
-mark                        Admin@123456            faculty
-bob                         Admin@123456            student
+<p>UserNames:                  Password:               Rol:</p>
+<p>admin                       Admin@123456            admin</p>
+<p>mark                        Admin@123456            faculty</p>
+<p>bob                         Admin@123456            student</p>
 
 
