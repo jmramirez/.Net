@@ -20,7 +20,7 @@ Students are capable to see if they have a cancellation for the day.
 
 Admin can add, delete, or update Faculty, Students and Courses, and also they can see all the cancellations for all the faculties. 
 
-This app can be tested here : <a href=http://testapp31.azurewebsites.net/>Project 1</a>
+This app can be tested here : <a href=http://testapp81.azurewebsites.net/>Project 1</a>
 
 <p>UserNames:                  Password:               Rol:</p>
 <p>admin                       Admin@123456            admin</p>
