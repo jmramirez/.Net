@@ -1,0 +1,24 @@
+﻿@model WebApplication5.ViewModels.VM_Error
+
+@{
+    ViewBag.Title = "Error";
+}
+
+<h2>Error</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        @foreach (var item in Model.ErrorMessages)
+        {
+            <dt>
+                @item.Key
+            </dt>
+            <dd>
+                @item.Value
+            </dd>
+        }
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

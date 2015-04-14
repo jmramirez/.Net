@@ -1,0 +1,174 @@
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Antlr3.Runtime.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\EntityFramework.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Newtonsoft.Json.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Owin.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.Optimization.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\WebGrease.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.Optimization.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Antlr3.Runtime.pdb
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Newtonsoft.Json.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\EntityFramework.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\AutoMapper.Net4.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\AutoMapper.dll
+c:\users\josemiguel\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\AutoMapper.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\AutoMapper.Net4.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\WebApplication5.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\WebApplication5.pdb
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Antlr3.Runtime.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\AutoMapper.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\EntityFramework.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Newtonsoft.Json.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Owin.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Helpers.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Mvc.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Optimization.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Razor.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.Razor.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\WebGrease.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\AutoMapper.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Helpers.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Mvc.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Optimization.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Razor.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.Razor.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Newtonsoft.Json.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\EntityFramework.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\JoseMiguel\Documents\Visual Studio 2013\Projects\WebApplication5 - Copy\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\AutoMapper.Net4.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\WebApplication5.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\WebApplication5.pdb
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Antlr3.Runtime.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\AutoMapper.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\EntityFramework.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Newtonsoft.Json.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Owin.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Helpers.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Mvc.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Optimization.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Razor.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.Razor.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\WebGrease.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\AutoMapper.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Helpers.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Mvc.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Optimization.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.Razor.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\System.Web.WebPages.Razor.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Newtonsoft.Json.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\EntityFramework.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\JoseMiguel\Documents\Projects\WebApplication5 - Copy\WebApplication5\obj\Debug\WebApplication5.pdb
